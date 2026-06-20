@@ -2,48 +2,61 @@
 
 ## 💻 PHP Developer
 
-I'm a PHP Developer with 1.5+ years of experience in building ERP, Billing, Inventory and Business Management applications using CodeIgniter.
+I'm a PHP Developer with **1.5+ years of experience** building web applications using **PHP, CodeIgniter, MySQL, JavaScript, jQuery, and Bootstrap**.
 
-Currently learning Laravel and improving my backend development skills.
+I have worked on ERP systems, eCommerce applications, business websites, and custom management solutions. Currently, I'm learning **Laravel** and strengthening my backend development skills.
 
 ---
 
 ## 🚀 Tech Stack
 
-- PHP
-- CodeIgniter
-- Laravel (Learning)
-- MySQL
-- JavaScript
-- jQuery
-- Bootstrap
-- HTML5
-- CSS3
-- Git
-- GitHub
+* PHP
+* CodeIgniter
+* Laravel (Learning)
+* MySQL
+* JavaScript
+* jQuery
+* Bootstrap
+* HTML5
+* CSS3
+* Git
+* GitHub
 
 ---
 
-## 📂 Featured Projects
+## 💼 Professional Experience
 
-- 🏢 ERP Management System
-- 📦 Inventory Management System
-- 🧾 Billing Management System
-- 👥 Customer Management System
+### ✅ Developed
+
+* 🏢 ERP Management System (End-to-End)
+
+  * Customer Management
+  * Supplier Management
+  * Purchase & Sales
+  * Billing & Invoice
+  * Inventory & Stock
+  * Reports & GST
+
+### 🤝 Contributed To
+
+* 💎 Jewellery eCommerce Website
+* 🚜 Earthmovers Business Website
+* 🚰 Pumps Company Website
+* 📊 Business Management Applications
 
 ---
 
 ## 🌱 Currently Learning
 
-- Laravel
-- REST API Development
-- Advanced Git & GitHub
+* Laravel
+* REST API Development
+* Git & GitHub Best Practices
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: madhavangunasekar3@gmail.com
+📧 **Email:** [madhavangunasekar3@gmail.com](mailto:madhavangunasekar3@gmail.com)
 
 ---
 
