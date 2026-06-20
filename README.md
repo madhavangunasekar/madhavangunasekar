@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi 👋, I'm Madhavan Gunasekar
 
-<!--
-**madhavangunasekar/madhavangunasekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 PHP Developer
 
-Here are some ideas to get you started:
+I'm a PHP Developer with 1.5+ years of experience in building ERP, Billing, Inventory and Business Management applications using CodeIgniter.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning Laravel and improving my backend development skills.
+
+---
+
+## 🚀 Tech Stack
+
+- PHP
+- CodeIgniter
+- Laravel (Learning)
+- MySQL
+- JavaScript
+- jQuery
+- Bootstrap
+- HTML5
+- CSS3
+- Git
+- GitHub
+
+---
+
+## 📂 Featured Projects
+
+- 🏢 ERP Management System
+- 📦 Inventory Management System
+- 🧾 Billing Management System
+- 👥 Customer Management System
+
+---
+
+## 🌱 Currently Learning
+
+- Laravel
+- REST API Development
+- Advanced Git & GitHub
+
+---
+
+## 📫 Contact
+
+- 📧 Email: madhavangunasekar3@gmail.com
+
+---
+
+⭐ Thanks for visiting my profile!
